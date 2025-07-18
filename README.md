@@ -78,4 +78,4 @@ stationery_detector_cvapi/
 ---
 
 ## 👤 Author
-Made with ❤️ by Katta Vivek (Final Year Student, JITS)
+ABDUL QADEER
